@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Applications/AMPPS/www/nodejs/rooms-and-namespaces/node_modules/socket.io/node_modules/engine.io/node_modules/ws/index.js",
+        "/Applications/AMPPS/www/nodejs/rooms-and-namespaces/node_modules/socket.io/node_modules/engine.io/node_modules/ws/bench/sender.benchmark.js",
+        "/Applications/AMPPS/www/nodejs/rooms-and-namespaces/node_modules/socket.io/node_modules/engine.io/node_modules/ws/lib/BufferPool.js",
+    ]
+}
